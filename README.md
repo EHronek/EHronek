@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Emmanuel Hronek Owuor</h1>
 <h3 align="center">Full Stack Software Engineer | System Administrator | DevOps Engineer | IT Support Specialist</h3>
 
 <p align="center">
-  🚀 Passionate about transforming education with tech <br>
+  🚀 Passionate about building powerful, scalable and impactful backend technologies <br>
   💻 Dedicated to building secure, scalable, and impactful solutions <br>
   🌍 Based in Kenya | Open to remote & on-site opportunities
 </p>

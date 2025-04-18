@@ -59,7 +59,7 @@ I've worked on a variety of impactful projects – from **robust backend APIs wi
 
   - Environment variables and shell command parsing
   -It replicates essential shell behavior, showcasing a strong grasp of OS internals and C programming at the systems level.
-  - [View Simple Shell Project Repo] (#) (https://github.com/EHronek/simple_shell)
+  - [View Simple Shell Project Repo](#) (https://github.com/EHronek/simple_shell)
 
 - **🧑‍💼 Employee Management System (Python | Flask | SQLAlchemy | MySQL)**
   - A full-featured web-based system for managing employee records, built using Flask and SQLAlchemy ORM. It includes:
@@ -72,7 +72,7 @@ I've worked on a variety of impactful projects – from **robust backend APIs wi
 
   - RESTful routes for data manipulation
   - This project highlights my skills in backend architecture, API design, and working with real-world relational databases.
-  - [View Simple Shell Project Repo] (#) (https://github.com/EHronek/Employee_management_system)
+  - [View Simple Shell Project Repo](#) (https://github.com/EHronek/Employee_management_system)
 
 - **📦 Quotation Management System (Python | Tkinter | SQLAlchemy | MySQL)**
   - A desktop application built from scratch using Python’s Tkinter GUI library. The system allows businesses to:
@@ -85,12 +85,12 @@ I've worked on a variety of impactful projects – from **robust backend APIs wi
 
   - Export or print formatted quotations for distribution
   - Built as a standalone business tool, this project showcases my ability to build complete applications with a graphical interface, persistent storage, and business logic.
-  - [View Simple Shell Project Repo] (#) (https://github.com/EHronek/Quotation_system_project)
+  - [View Simple Shell Project Repo](#) (https://github.com/EHronek/Quotation_system_project)
 
 - **📊 System Administration, DevOps, Monitoring & Automation Scripts**
   - Created automated Linux scripts for system performance analysis and alerts.
   - Setup Dockerized environments for testing and deployment.
-  - [View Simple Shell Project Repo] (#) (https://github.com/EHronek/alx-system_engineering-devops)
+  - [View Simple Shell Project Repo](#) (https://github.com/EHronek/alx-system_engineering-devops)
 
 ---
 

@@ -49,40 +49,40 @@ I've worked on a variety of impactful projects – from **robust backend APIs wi
   - [View Project Repo](#) (https://github.com/EHronek/AirBnB_clone_v4)
 
 - **🐚 Simple Shell (C Programming – ALX Project)**
-A custom-built UNIX command-line interpreter developed in pure C, without using standard libraries. All functions — including string manipulation, memory management, and I/O — were implemented from scratch. This project demonstrates deep understanding of:
+  - A custom-built UNIX command-line interpreter developed in pure C, without using standard libraries. All functions — including string manipulation, memory management, and I/O — were implemented from scratch. This project demonstrates deep understanding of:
 
-Low-level system programming
+  - Low-level system programming
 
-Process management (fork, execve, wait)
+  - Process management (fork, execve, wait)
 
-File descriptors and I/O redirection
+  - File descriptors and I/O redirection
 
-Environment variables and shell command parsing
-It replicates essential shell behavior, showcasing a strong grasp of OS internals and C programming at the systems level.
+  - Environment variables and shell command parsing
+  -It replicates essential shell behavior, showcasing a strong grasp of OS internals and C programming at the systems level.
 
 - **🧑‍💼 Employee Management System (Python | Flask | SQLAlchemy | MySQL)**
-A full-featured web-based system for managing employee records, built using Flask and SQLAlchemy ORM. It includes:
+  - A full-featured web-based system for managing employee records, built using Flask and SQLAlchemy ORM. It includes:
 
-CRUD operations for employees, departments, and roles
+  - CRUD operations for employees, departments, and roles
 
-Secure user authentication and session management
+  - Secure user authentication and session management
 
-MySQL-backed relational data model
+  - MySQL-backed relational data model
 
-RESTful routes for data manipulation
-This project highlights my skills in backend architecture, API design, and working with real-world relational databases.
+  - RESTful routes for data manipulation
+  - This project highlights my skills in backend architecture, API design, and working with real-world relational databases.
 
 - **📦 Quotation Management System (Python | Tkinter | SQLAlchemy | MySQL)**
-A desktop application built from scratch using Python’s Tkinter GUI library. The system allows businesses to:
+  - A desktop application built from scratch using Python’s Tkinter GUI library. The system allows businesses to:
 
-Generate, save, and retrieve customer quotations
+  - Generate, save, and retrieve customer quotations
 
-Manage client data and quote histories
+  - Manage client data and quote histories
 
-Interact with a MySQL database via SQLAlchemy ORM
+  - Interact with a MySQL database via SQLAlchemy ORM
 
-Export or print formatted quotations for distribution
-Built as a standalone business tool, this project showcases my ability to build complete applications with a graphical interface, persistent storage, and business logic.
+  - Export or print formatted quotations for distribution
+  - Built as a standalone business tool, this project showcases my ability to build complete applications with a graphical interface, persistent storage, and business logic.
 
 - **📊 System Administration, Monitoring & Automation Scripts**
   - Created automated Linux scripts for system performance analysis and alerts.

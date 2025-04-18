@@ -46,7 +46,7 @@ I've worked on a variety of impactful projects – from **robust backend APIs wi
 - **🏠 AirBnB Clone**
   - Dynamic full-stack clone using Flask, jQuery, and RESTful APIs.
   - Emulated key features like amenity filtering and API availability checks.
-  - [View Project Repo](#) (https://github.com/EHronek/AirBnB_clone_v4)
+  - [View AirBnB Project Repo](https://github.com/EHronek/AirBnB_clone_v4)
 
 - **🐚 Simple Shell (C Programming – ALX Project)**
   - A custom-built UNIX command-line interpreter developed in pure C, without using standard libraries. All functions — including string manipulation, memory management, and I/O — were implemented from scratch. This project demonstrates deep understanding of:
@@ -72,7 +72,7 @@ I've worked on a variety of impactful projects – from **robust backend APIs wi
 
   - RESTful routes for data manipulation
   - This project highlights my skills in backend architecture, API design, and working with real-world relational databases.
-  - [View Simple Shell Project Repo](https://github.com/EHronek/Employee_management_system)
+  - [View Project Repo](https://github.com/EHronek/Employee_management_system)
 
 - **📦 Quotation Management System (Python | Tkinter | SQLAlchemy | MySQL)**
   - A desktop application built from scratch using Python’s Tkinter GUI library. The system allows businesses to:
@@ -85,12 +85,12 @@ I've worked on a variety of impactful projects – from **robust backend APIs wi
 
   - Export or print formatted quotations for distribution
   - Built as a standalone business tool, this project showcases my ability to build complete applications with a graphical interface, persistent storage, and business logic.
-  - [View Simple Shell Project Repo](https://github.com/EHronek/Quotation_system_project)
+  - [View Project Repo](https://github.com/EHronek/Quotation_system_project)
 
 - **📊 System Administration, DevOps, Monitoring & Automation Scripts**
   - Created automated Linux scripts for system performance analysis and alerts.
   - Setup Dockerized environments for testing and deployment.
-  - [View Simple Shell Project Repo](https://github.com/EHronek/alx-system_engineering-devops)
+  - [View Project Repo](https://github.com/EHronek/alx-system_engineering-devops)
 
 ---
 

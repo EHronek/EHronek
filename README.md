@@ -59,6 +59,7 @@ I've worked on a variety of impactful projects – from **robust backend APIs wi
 
   - Environment variables and shell command parsing
   -It replicates essential shell behavior, showcasing a strong grasp of OS internals and C programming at the systems level.
+  - [View Simple Shell Project Repo] (#https://github.com/EHronek/simple_shell)
 
 - **🧑‍💼 Employee Management System (Python | Flask | SQLAlchemy | MySQL)**
   - A full-featured web-based system for managing employee records, built using Flask and SQLAlchemy ORM. It includes:

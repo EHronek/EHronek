@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Software Engineer | System Administrator | DevOps Engineer | IT Support Specialist</h3>
 
 <p align="center">
-  🚀 Passionate about building powerful, scalable and impactful backend technologies <br>
+  🚀 Passionate about System Administration and DevOps while also building powerful, scalable and impactful backend technologies <br>
   💻 Dedicated to building secure, scalable, and impactful solutions <br>
   🌍 Based in Kenya | Open to remote & on-site opportunities
 </p>
@@ -96,6 +96,7 @@ I've worked on a variety of impactful projects – from **robust backend APIs wi
 
 ### 🌱 Currently Learning
 
+- Advance Systems Administration and DevOps
 - Advanced Javascript and Python programming languages
 - Advanced system design
 - Kubernetes and container orchestration
